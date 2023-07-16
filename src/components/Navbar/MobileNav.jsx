@@ -42,7 +42,7 @@ const MobileNav = () => {
             </ul>
             <div className="btn-group flex flex-col gap-2 ">
               <NavbarButton buttonName={"Sign In"} />
-              <NavbarButton bgColor={"bg-orange-600"} buttonName={"Sign In"} />
+              <NavbarButton bgColor={"bg-orange-600"} buttonName={"Sign Up"} />
             </div>
           </nav>
         ) : (

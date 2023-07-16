@@ -1,7 +1,7 @@
 const BlogCard = ({ basis, img, date, titleSize, title }) => {
   return (
     <div
-      className={`${basis} basis-72 flex-1 w-full flex flex-col shadow-2xl text-white bg-colorBlog cursor-pointer`}
+      className={`${basis} flex-1 w-full flex flex-col shadow-2xl text-white bg-colorBlog cursor-pointer`}
     >
       <img className="w-full " src={img} />
       <div className="p-4 h-full flex flex-col justify-between">

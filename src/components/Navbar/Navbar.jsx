@@ -21,7 +21,7 @@ const Navbar = () => {
         </nav>
         <div className="btn-group flex gap-2">
           <NavbarButton buttonName={"Sign In"} />
-          <NavbarButton bgColor={"bg-orange-600"} buttonName={"Sign In"} />
+          <NavbarButton bgColor={"bg-orange-600"} buttonName={"Sign Up"} />
         </div>
       </header>
       <MobileNav />

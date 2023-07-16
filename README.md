@@ -1,5 +1,7 @@
 # Gpt3 AI UI Template
 
+![1](https://github.com/atmcmustafa/Gpt3-AI-UI-Template/assets/98126723/c6f675ef-b080-4bde-a040-01595de8c916)
+
 ## Available Scripts
 
 In the project directory, you can run:

@@ -22,7 +22,7 @@ const featuresData = [
 
 const Future = () => {
   return (
-    <div className="bg-colorBg w-full py-32 ">
+    <div id="openAI" className="bg-colorBg w-full py-32 ">
       <div className="container flex flex-col md:flex-row text-white  justify-center ">
         <div>
           <Heading

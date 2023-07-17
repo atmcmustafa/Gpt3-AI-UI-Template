@@ -3,7 +3,7 @@ import BlogCard from "./BlogCard";
 import { blog1, blog2, blog3, blog4, blog5 } from "./Image";
 const Blogging = () => {
   return (
-    <div className="bg-colorBg w-full py-24">
+    <div id="library" className="bg-colorBg w-full py-24">
       <div className="container w-full text-white">
         <h2 className="gradient-text text-4xl font-bold mb-12 text-center md:text-start">
           A lot is happening, <br /> We are blogging about it.

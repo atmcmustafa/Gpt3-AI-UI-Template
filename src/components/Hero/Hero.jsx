@@ -7,7 +7,7 @@ import Paragraph from "../GeneralComponents/Paragraph";
 
 const Hero = () => {
   return (
-    <div className="bg-colorBg ">
+    <div id="home" className="bg-colorBg ">
       <div className="container flex gap-12 flex-col md:flex-row items-center justify-between">
         <div className="w-full flex flex-col gap-5">
           <Heading

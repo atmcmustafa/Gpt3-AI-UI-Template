@@ -6,7 +6,7 @@ import GradientParagraph from "./GradientParagraph";
 
 const WhatIsGPT = () => {
   return (
-    <div className="bg-colorBg w-full">
+    <div id="whatIsGPT" className="bg-colorBg w-full">
       <div className="container text-white bg-colorBlog p-8">
         <div className="flex justify-between flex-wrap lg:flex-nowrap">
           <GradientBorder title={"What is GPT-3"} />

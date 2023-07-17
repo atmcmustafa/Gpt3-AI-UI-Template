@@ -2,7 +2,7 @@ import myApps from "../../assets/possibility.png";
 import Paragraph from "../GeneralComponents/Paragraph";
 const GetStarted = () => {
   return (
-    <div className="bg-colorBg text-white">
+    <div id="caseStudies" className="bg-colorBg text-white">
       <div className="container flex flex-col lg:flex-row">
         <div className="w-full">
           <img src={myApps} />
